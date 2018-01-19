@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_bank_setting.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_bank_setting.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_add_bank_card.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_add_bank_card.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_layout_line_959595.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_layout_line_959595.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_select_change.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_select_change.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_layout_titlebar.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_layout_titlebar.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_header_rp_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_header_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_b_dialog_pwd_error.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_dialog_pwd_error.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_sg.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_sg.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_rp_history.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_rp_history.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_item_rp_history.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_item_rp_history.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_fragment_trade_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_fragment_trade_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_item_rp_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_item_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_b_dialog_progress.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_item_list_buttom.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_item_list_buttom.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_fragment_getdeposit.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_fragment_getdeposit.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_ss.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_ss.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_p.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_p.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_trans_repeat_dialog.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_trans_repeat_dialog.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_b_title_bar.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_title_bar.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_recharge.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_recharge.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_header_receive_rp.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_header_receive_rp.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_b_textview.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_textview.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_header_send_rp.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_header_send_rp.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_dialog_paytype_old_card_item.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_dialog_paytype_old_card_item.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_adapter_banklist_item.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_adapter_banklist_item.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_list_buttom.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_list_buttom.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_header_rp_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_header_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_new_card.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_new_card.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_trade_history.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_trade_history.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_setting_bank_cark_list.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_setting_bank_cark_list.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_dialog_select_pay_type.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_dialog_select_pay_type.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_authen.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_authen.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_trade_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trade_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_my_wallet.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_my_wallet.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_pwdh5.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_pwdh5.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_dialog_open_rp.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_dialog_open_rp.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_my_rp.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_my_rp.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_b_gridpasswordview.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_gridpasswordview.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_rp_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_account_info.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_account_info.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_b_floating_label_text_view.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_floating_label_text_view.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_open_rp.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_open_rp.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_support_bank_card.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_support_bank_card.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_rp_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_b_divider.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_divider.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_add_card_second.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_add_card_second.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_fragment_red_packet_history.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_fragment_red_packet_history.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_acf.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_acf.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_trans_succ.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trans_succ.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_add_card_first.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_add_card_first.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_dialog_paytype_balance_item.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_dialog_paytype_balance_item.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_dialog_input_pwd.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_dialog_input_pwd.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_fragment_red_packet_history.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_fragment_red_packet_history.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_my_rp.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_my_rp.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_trade_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_trade_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_my_bank_card.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_my_bank_card.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_item_trade_history.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_item_trade_history.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_authen.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_authen.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_select_pay_type.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_select_pay_type.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_trade_history_buttom.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_trade_history_buttom.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_trans_tip_dialog.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_trans_tip_dialog.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_limit_dialog.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_limit_dialog.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_bank_card_list.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_bank_card_list.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_trans_pay.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trans_pay.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_header_send_rp.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_header_send_rp.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_layout_line.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_layout_line.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_getdeposit.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_getdeposit.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_bank_cark_list.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_bank_cark_list.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_trans_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trans_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_header_receive_rp.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_header_receive_rp.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_acs.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_acs.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_item_trade_history.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_trade_history.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_layout_actionbar.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_layout_actionbar.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_fragment_trade_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_fragment_trade_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_webview.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_webview.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_rp_detail.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_dialog_paytype.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_dialog_paytype.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_trade_history.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trade_history.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_secure_setting.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_secure_setting.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_w_activity_pwdh5.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_pwdh5.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jrmf_rp_activity_trans_account.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\jrmfneteaselib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trans_account.xml"
+    }
+]

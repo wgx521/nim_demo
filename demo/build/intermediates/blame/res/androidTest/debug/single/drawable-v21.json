@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\WGX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\643e4bd6b47510be0c293f0231b0537b\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\WGX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\643e4bd6b47510be0c293f0231b0537b\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\WGX\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\ee656fe717ea2cfb74d5cb1708f83c36\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\nim_touch_bg.xml",
+        "source": "E:\\asWorkspace\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\nim_touch_bg.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\WGX\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\643e4bd6b47510be0c293f0231b0537b\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\WGX\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\ee656fe717ea2cfb74d5cb1708f83c36\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\WGX\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\ee656fe717ea2cfb74d5cb1708f83c36\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\WGX\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\ee656fe717ea2cfb74d5cb1708f83c36\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\asWorkspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\WGX\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\cc7968e2230bb0035de531ab05e5f75c\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]
